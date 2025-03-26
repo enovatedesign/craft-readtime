@@ -1,5 +1,5 @@
 {
-    "name": "jalendport/craft-readtime",
+    "name": "enovatedesign/craft-readtime",
     "description": "Calculate the estimated read time for content.",
     "type": "craft-plugin",
     "version": "3.0.0",
